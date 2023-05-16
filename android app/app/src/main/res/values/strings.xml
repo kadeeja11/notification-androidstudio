@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+    <string name="channel_name">def</string>
+    <string name="channel_desc">pqr</string>
+</resources>
